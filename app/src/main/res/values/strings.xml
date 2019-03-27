@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">webview_hack</string>
+    <string name="view_url">URL: </string>
+    <string name="input_url">https://www.baidu.com</string>
+    <string name="action_go">Go!</string>
+    <string name="hint_url">Edit url here.</string>
 </resources>
